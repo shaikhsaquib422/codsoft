@@ -15,6 +15,7 @@ function calculate() {
   try {
     currentInput = eval(currentInput).toString();
     display.value = currentInput;
+    hat;
   } catch (error) {
     display.value = "Error";
   }
