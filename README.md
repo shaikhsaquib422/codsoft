@@ -9,7 +9,7 @@ Task 2: Landing Page
 A landing page for a crpto website which was created using vanilla HTML.
 Tailwind CSS has been used in order to style the website ensuring that the web page is responsive across all the various devices.
 
-url: https://codsoft-six-lovat.vercel.app/
+url: https://magenta-speculoos-d0e0a7.netlify.app/
 
 
 Task 3: Simple Calculator
